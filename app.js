@@ -3,9 +3,14 @@ class ReactContainer extends React.Component{
     // JSX there should be one parent element
       render(){
           return (
-          <div>Hello! Welcome to Kalvium   
+            <div>
+ <div>Hello! Welcome to Kalvium</div>
              <div>This is babel</div>
-         </div> )
+
+
+            </div>
+         
+     )
       };  
   }
 
