@@ -1,16 +1,13 @@
+
 class ReactContainer extends React.Component{
     // JSX tags
     // JSX there should be one parent element
       render(){
           return (
-            <div>
- <div>Hello! Welcome to Kalvium</div>
+          <div>
+            Hello! Welcome to Kalvium
              <div>This is babel</div>
-
-
-            </div>
-         
-     )
+         </div> )
       };  
   }
 
